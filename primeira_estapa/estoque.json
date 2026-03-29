@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Arroz",
+        "preco": 5.99,
+        "quantidade": 100
+    },
+    {
+        "nome": "Feijão",
+        "preco": 8.5,
+        "quantidade": 50
+    },
+    {
+        "nome": "Macarrão",
+        "preco": 3.75,
+        "quantidade": 200
+    }
+]

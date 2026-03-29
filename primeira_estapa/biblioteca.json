@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "ano": 1949,
+        "disponivel": true
+    },
+    {
+        "titulo": "Dom Casmurro",
+        "autor": "Machado de Assis",
+        "ano": 1899,
+        "disponivel": true
+    }
+]
